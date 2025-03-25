@@ -11,3 +11,6 @@ To clone the repository -
 
 To run the website-
 download it , or can open it through the url 
+
+There are other modes too for using the application
+
